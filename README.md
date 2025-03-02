@@ -25,8 +25,8 @@ This Python script extracts transcriptions from YouTube videos and saves them to
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/youtube-transcript-extractor.git
-   cd youtube-transcript-extractor
+   git clone https://github.com/tlvnvlt/yt-transcript-downloader.git
+   cd yt-transcript-downloader
    ```
 
 2. Install the required dependencies:
